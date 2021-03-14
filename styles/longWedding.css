@@ -14,4 +14,11 @@
     color: black;
 }
 
+.header: {
+z-index: 50 ;
+}
 
+
+.handshake:{
+z-index: 100 ;
+}
